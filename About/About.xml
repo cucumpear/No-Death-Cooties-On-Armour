@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>No Death Cooties On Armour</name>
   <author>cucumpear</author>
-  <targetVersion>0.16.1393</targetVersion>
+  <targetVersion>0.17.1526</targetVersion>
   <description>Colonists will no longer care if armour that's reasonably cleanable, i.e. made of metal/plastic, was worn by a corpse.
-  Please note that this will override all vanilla helmets and power armour and will be incompatible with anything that also alter these items.</description>
+  Uses xpath patching and should not conflict with other mods.</description>
 </ModMetaData>
